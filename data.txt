@@ -1,0 +1,4 @@
+Good reviews: 1126;
+Bad reviews: 1002;
+index page: 1;
+index site: 51;
